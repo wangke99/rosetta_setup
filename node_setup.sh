@@ -1,7 +1,7 @@
 #!/bin/bash
 
 sudo apt-get update -y
-sudo apt-get install -y gcc make g++
+sudo apt-get install -y gcc make g++ vim emacs
 
 mkdir ~/Downloads
 cd ~/Downloads
